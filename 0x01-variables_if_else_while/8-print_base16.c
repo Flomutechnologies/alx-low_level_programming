@@ -12,9 +12,9 @@ int main(void)
 	int d;
 	char low;
 
-	for (d = '0'; d <= 'f' ; low++)
+	for (d = '0'; d <= 'f'; low++)
 	putchar(low);
-	putchar('\n')
+	putchar('\n');
 
 	return (0);
 }
